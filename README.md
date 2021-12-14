@@ -1,7 +1,7 @@
 ### Hi there 👋
 <div>
-	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hejazizo&show_icons=true&locale=en&layout=compact" alt="hejazizo" />
-	  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hejazizo&" alt="hejazizo" />
+	  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siniorone&show_icons=true&locale=en&layout=compact" alt="siniorone" />
+	  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=siniorone&" alt="siniorone" />
 	</div>
 <!--
 **siniorone/siniorone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
