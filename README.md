@@ -5,11 +5,6 @@
 	  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=siniorone&" alt="siniorone" />
 </div>
 
-
-<div>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=siniorone&show_icons=true&theme=gruvbox_light" alt="siniorone" />
-</div>
-
 <div>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=siniorone&hide=jupyter%20notebook&layout=compact&theme=gruvbox_light" alt="siniorone" /></p>
 </div><br>
